@@ -16,7 +16,11 @@ a{
     margin: 0 8px;
 }
 .home{
-    color: #ffaa44;
+    color: #ededed;
+}
+
+.home:hover{
+    color: #000000;
 }
 header{
     height: 100px;
